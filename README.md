@@ -26,7 +26,7 @@ Saving structured data with pandas
 Error handling and user feedback with pop-ups
 
 📸 Example Output
-
+![Image](https://github.com/user-attachments/assets/ae534019-4806-416e-8711-04df59d59d75)
 
 📰 Top BBC News Headlines:
 
